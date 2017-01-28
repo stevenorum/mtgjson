@@ -1,0 +1,198 @@
+[
+  {
+    "imageName": "time distortion", 
+    "layout": "phenomenon", 
+    "name": "Time Distortion", 
+    "printings": [
+      "PC2", 
+      "PCA"
+    ], 
+    "rulings": [
+      {
+        "date": "2012-06-01", 
+        "text": "This effect reverses the turn order established at the beginning of the game. While the order is reversed, anything that cares about this order (such as determining in what order choices are made) will use the new reversed"
+      }, 
+      {
+        "date": "2012-06-01", 
+        "text": "If the game's turn order is reversed again, it will return to the default order used at the beginning of the game."
+      }
+    ], 
+    "text": "When you encounter Time Distortion, reverse the game's turn order. (For example, if play had proceeded clockwise around the table, it now goes counterclockwise. Then planeswalk away from this phenomenon.)", 
+    "type": "Phenomenon", 
+    "types": [
+      "Phenomenon"
+    ]
+  }, 
+  {
+    "imageName": "planewide disaster", 
+    "layout": "phenomenon", 
+    "name": "Planewide Disaster", 
+    "printings": [
+      "PC2", 
+      "PCA"
+    ], 
+    "text": "When you encounter Planewide Disaster, destroy all creatures. (Then planeswalk away from this phenomenon.)", 
+    "type": "Phenomenon", 
+    "types": [
+      "Phenomenon"
+    ]
+  }, 
+  {
+    "imageName": "spatial merging", 
+    "layout": "phenomenon", 
+    "name": "Spatial Merging", 
+    "printings": [
+      "PC2", 
+      "PCA"
+    ], 
+    "rulings": [
+      {
+        "date": "2012-06-01", 
+        "text": "Until a player planeswalks, the game will exist on both planes. The abilities of both plane cards can affect the game."
+      }, 
+      {
+        "date": "2012-06-01", 
+        "text": "If a player rolls {CHAOS}, both chaos abilities will trigger. The player may put those abilities on the stack in any order."
+      }, 
+      {
+        "date": "2012-06-01", 
+        "text": "The next time a player planeswalks, he or she planeswalks away from both planes. Their owner puts them on the bottom of his or her planar deck in an order of his or her choice. This order isn't revealed to other players."
+      }
+    ], 
+    "text": "When you encounter Spatial Merging, reveal cards from the top of your planar deck until you reveal two plane cards. Simultaneously planeswalk to both of them. Put all other cards revealed this way on the bottom of your planar deck in any order.", 
+    "type": "Phenomenon", 
+    "types": [
+      "Phenomenon"
+    ]
+  }, 
+  {
+    "imageName": "morphic tide", 
+    "layout": "phenomenon", 
+    "name": "Morphic Tide", 
+    "printings": [
+      "PC2", 
+      "PCA"
+    ], 
+    "rulings": [
+      {
+        "date": "2012-06-01", 
+        "text": "This ability is very similar to that of Warp World, but note that planeswalkers are put onto the battlefield."
+      }, 
+      {
+        "date": "2012-06-01", 
+        "text": "Taking it slowly, here's what happens when Morphic Tide's ability resolves: 1) Each player counts the number of permanents he or she owns. 2) Each player shuffles those permanents into his or her library. 3) Each player reveals cards from the top of his or her library equal to the number that player counted. 4) Each player puts all artifact, creature, land, and planeswalker cards revealed this way onto the battlefield. All of these cards enter the battlefield at the same time. 5) Each player puts all enchantment cards revealed this way onto the battlefield. An Aura put onto the battlefield this way can enchant an artifact, creature, land, or planeswalker that was already put onto the battlefield, but can't enchant an enchantment that's being put onto the battlefield at the same time as it. If multiple players have Auras to put onto the battlefield, the player whose turn it is announces what his or her Auras will enchant, then each other player in turn order does the same, then all enchantments (both Auras and non-Auras) enter the battlefield at the same time. 6) Each player puts all of his or her other revealed cards (instants, sorceries, and Auras that can't enchant anything) on the bottom of his or her library in any order."
+      }, 
+      {
+        "date": "2012-06-01", 
+        "text": "Cards such as Sakashima's Student that can enter the battlefield as a copy of another permanent won't be able to enter the battlefield as a copy of a permanent that's entering the battlefield at the same time."
+      }, 
+      {
+        "date": "2012-06-01", 
+        "text": "After all permanents are put onto the battlefield and you planeswalk away from Morphic Tide, any abilities that triggered from those permanents entering the battlefield, from the previous generation of permanents leaving the battlefield, and from the new plane or phenomenon will be put onto the stack. You'll put all of your triggered abilities on the stack in any order, then each other player in turn order will do the same. (The last ability put on the stack will be the first one that resolves.)"
+      }, 
+      {
+        "date": "2012-06-01", 
+        "text": "The permanents will enter the battlefield while Morphic Tide is face up. This means the game won't be on any plane when determining if any abilities trigger because those permanents entered the battlefield, for example. However, you'll planeswalk away from Morphic Tide before any such abilities are put on the stack. After you turn the next card of the planar deck face up, any abilities that triggered during the resolution of Morphic Tide (including any abilities that triggered because you encountered another phenomenon or planeswalked to the next plane) will be put on the stack. The planar controller will put his or her abilities on the stack in any order, followed by each other player in turn order. The last ability put on the stack will be the first one to resolve."
+      }, 
+      {
+        "date": "2012-06-01", 
+        "text": "Token permanents a player owns will count toward the number of cards that player reveals. They'll be shuffled into that player's library and subsequently cease to exist. A token's owner is the player under whose control it first entered the battlefield."
+      }
+    ], 
+    "text": "When you encounter Morphic Tide, each player shuffles all permanents he or she owns into his or her library, then reveals that many cards from the top of his or her library. Each player puts all artifact, creature, land, and planeswalker cards revealed this way onto the battlefield, then does the same for enchantment cards, then puts all cards revealed this way that weren't put onto the battlefield on the bottom of his or her library in any order. (Then planeswalk away from this phenomenon.)", 
+    "type": "Phenomenon", 
+    "types": [
+      "Phenomenon"
+    ]
+  }, 
+  {
+    "imageName": "mutual epiphany", 
+    "layout": "phenomenon", 
+    "name": "Mutual Epiphany", 
+    "printings": [
+      "PC2", 
+      "PCA"
+    ], 
+    "text": "When you encounter Mutual Epiphany, each player draws four cards. (Then planeswalk away from this phenomenon.)", 
+    "type": "Phenomenon", 
+    "types": [
+      "Phenomenon"
+    ]
+  }, 
+  {
+    "imageName": "chaotic aether", 
+    "layout": "phenomenon", 
+    "name": "Chaotic Aether", 
+    "printings": [
+      "PC2", 
+      "PCA"
+    ], 
+    "rulings": [
+      {
+        "date": "2012-06-01", 
+        "text": "While Chaotic Aether's effect applies, rolling any blank face of the planar die will cause chaos abilities to trigger."
+      }, 
+      {
+        "date": "2012-06-01", 
+        "text": "Planeswalking away from a phenomenon (as you do when resolving Chaotic Aether's ability) doesn't cause Chaotic Aether's effect to expire."
+      }
+    ], 
+    "text": "When you encounter Chaotic Aether, each blank roll of the planar die is a CHAOS roll until a player planeswalks away from a plane. (Then planeswalk away from this phenomenon.)", 
+    "type": "Phenomenon", 
+    "types": [
+      "Phenomenon"
+    ]
+  }, 
+  {
+    "imageName": "interplanar tunnel", 
+    "layout": "phenomenon", 
+    "name": "Interplanar Tunnel", 
+    "printings": [
+      "PC2", 
+      "PCA"
+    ], 
+    "rulings": [
+      {
+        "date": "2012-06-01", 
+        "text": "The plane card you put on top of your planar deck is the one you'll planeswalk to after planeswalking away from Interplanar Tunnel."
+      }
+    ], 
+    "text": "When you encounter Interplanar Tunnel, reveal cards from the top of your planar deck until you reveal five plane cards. Put a plane card from among them on top of your planar deck, then put the rest of the revealed cards on the bottom in a random order. (Then planeswalk away from this phenomenon.)", 
+    "type": "Phenomenon", 
+    "types": [
+      "Phenomenon"
+    ]
+  }, 
+  {
+    "imageName": "reality shaping", 
+    "layout": "phenomenon", 
+    "name": "Reality Shaping", 
+    "printings": [
+      "PC2", 
+      "PCA"
+    ], 
+    "rulings": [
+      {
+        "date": "2012-06-01", 
+        "text": "First, you may put a permanent card onto the battlefield, then each other player in turn order may do the same. Cards such as Sakashima's Student that can enter the battlefield as a copy of another creature could copy a creature put onto the battlefield earlier in the resolution of the ability."
+      }, 
+      {
+        "date": "2012-06-01", 
+        "text": "Each player will know what permanent cards were put onto the battlefield earlier in the ability's resolution."
+      }, 
+      {
+        "date": "2012-06-01", 
+        "text": "This process is not repeated. Go around the table only once."
+      }, 
+      {
+        "date": "2012-06-01", 
+        "text": "After all permanents are put onto the battlefield and you planeswalk away from Reality Shaping, any abilities that triggered from those permanents entering the battlefield will be put onto the stack. You'll put all of your triggered abilities on the stack in any order, then each other player in turn order will do the same. (The last ability put on the stack will be the first one that resolves.)"
+      }
+    ], 
+    "text": "When you encounter Reality Shaping, starting with you, each player may put a permanent card from his or her hand onto the battlefield. (Then planeswalk away from this phenomenon.)", 
+    "type": "Phenomenon", 
+    "types": [
+      "Phenomenon"
+    ]
+  }
+]

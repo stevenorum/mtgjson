@@ -1,0 +1,2846 @@
+[
+  {
+    "cmc": 2, 
+    "colorIdentity": [
+      "R"
+    ], 
+    "colors": [
+      "Red"
+    ], 
+    "imageName": "crush underfoot", 
+    "layout": "normal", 
+    "legalities": [
+      {
+        "format": "Commander", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Legacy", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Lorwyn-Shadowmoor Block", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Modern", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Vintage", 
+        "legality": "Legal"
+      }
+    ], 
+    "manaCost": "{1}{R}", 
+    "name": "Crush Underfoot", 
+    "printings": [
+      "LRW", 
+      "MMA"
+    ], 
+    "rulings": [
+      {
+        "date": "2013-06-07", 
+        "text": "Crush Underfoot doesn't target the Giant creature you control. You choose that Giant as Crush Underfoot resolves. If you don't control a Giant creature at that time, the spell will finish resolving with no effect."
+      }
+    ], 
+    "subtypes": [
+      "Giant"
+    ], 
+    "text": "Choose a Giant creature you control. It deals damage equal to its power to target creature.", 
+    "type": "Tribal Instant \u2014 Giant", 
+    "types": [
+      "Tribal", 
+      "Instant"
+    ]
+  }, 
+  {
+    "cmc": 2, 
+    "colorIdentity": [
+      "B"
+    ], 
+    "colors": [
+      "Black"
+    ], 
+    "imageName": "prowess of the fair", 
+    "layout": "normal", 
+    "legalities": [
+      {
+        "format": "Commander", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Legacy", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Lorwyn-Shadowmoor Block", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Modern", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Vintage", 
+        "legality": "Legal"
+      }
+    ], 
+    "manaCost": "{1}{B}", 
+    "name": "Prowess of the Fair", 
+    "printings": [
+      "LRW"
+    ], 
+    "rulings": [
+      {
+        "date": "2007-10-01", 
+        "text": "If Prowess of the Fair and another nontoken Elf are put into your graveyard simultaneously (by Akroma's Vengeance, for example), the other Elf will cause Prowess of the Fair's ability to trigger."
+      }
+    ], 
+    "subtypes": [
+      "Elf"
+    ], 
+    "text": "Whenever another nontoken Elf is put into your graveyard from the battlefield, you may create a 1/1 green Elf Warrior creature token.", 
+    "type": "Tribal Enchantment \u2014 Elf", 
+    "types": [
+      "Tribal", 
+      "Enchantment"
+    ]
+  }, 
+  {
+    "cmc": 2, 
+    "colorIdentity": [
+      "W"
+    ], 
+    "colors": [
+      "White"
+    ], 
+    "imageName": "hoofprints of the stag", 
+    "layout": "normal", 
+    "legalities": [
+      {
+        "format": "Commander", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Legacy", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Lorwyn-Shadowmoor Block", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Modern", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Vintage", 
+        "legality": "Legal"
+      }
+    ], 
+    "manaCost": "{1}{W}", 
+    "name": "Hoofprints of the Stag", 
+    "printings": [
+      "LRW", 
+      "C16"
+    ], 
+    "rulings": [
+      {
+        "date": "2007-10-01", 
+        "text": "If a spell or ability has you draw multiple cards, Hoofprints of the Stag's ability triggers that many times."
+      }
+    ], 
+    "subtypes": [
+      "Elemental"
+    ], 
+    "text": "Whenever you draw a card, you may put a hoofprint counter on Hoofprints of the Stag.\n{2}{W}, Remove four hoofprint counters from Hoofprints of the Stag: Create a 4/4 white Elemental creature token with flying. Activate this ability only during your turn.", 
+    "type": "Tribal Enchantment \u2014 Elemental", 
+    "types": [
+      "Tribal", 
+      "Enchantment"
+    ]
+  }, 
+  {
+    "cmc": 7, 
+    "colorIdentity": [
+      "U"
+    ], 
+    "colors": [
+      "Blue"
+    ], 
+    "imageName": "knowledge exploitation", 
+    "layout": "normal", 
+    "legalities": [
+      {
+        "format": "Commander", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Legacy", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Lorwyn-Shadowmoor Block", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Modern", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Vintage", 
+        "legality": "Legal"
+      }
+    ], 
+    "manaCost": "{5}{U}{U}", 
+    "name": "Knowledge Exploitation", 
+    "printings": [
+      "MOR"
+    ], 
+    "rulings": [
+      {
+        "date": "2008-04-01", 
+        "text": "You cast the instant or sorcery card as part of the resolution of this spell. It's cast from your opponent's library, not your hand. You choose modes, pay additional costs, choose targets, etc. for the spell as normal when casting it. Any X in the mana cost will be 0. Alternative costs can't be paid."
+      }, 
+      {
+        "date": "2008-04-01", 
+        "text": "If you can't find an instant or sorcery card that can be legally cast, or choose not to find one, skip that part of the effect. Then the opponent shuffles his or her library."
+      }
+    ], 
+    "subtypes": [
+      "Rogue"
+    ], 
+    "text": "Prowl {3}{U} (You may cast this for its prowl cost if you dealt combat damage to a player this turn with a Rogue.)\nSearch target opponent's library for an instant or sorcery card. You may cast that card without paying its mana cost. Then that player shuffles his or her library.", 
+    "type": "Tribal Sorcery \u2014 Rogue", 
+    "types": [
+      "Tribal", 
+      "Sorcery"
+    ]
+  }, 
+  {
+    "cmc": 3, 
+    "colorIdentity": [
+      "U"
+    ], 
+    "colors": [
+      "Blue"
+    ], 
+    "imageName": "thieves' fortune", 
+    "layout": "normal", 
+    "legalities": [
+      {
+        "format": "Commander", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Legacy", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Lorwyn-Shadowmoor Block", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Modern", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Vintage", 
+        "legality": "Legal"
+      }
+    ], 
+    "manaCost": "{2}{U}", 
+    "name": "Thieves' Fortune", 
+    "printings": [
+      "MOR"
+    ], 
+    "subtypes": [
+      "Rogue"
+    ], 
+    "text": "Prowl {U} (You may cast this for its prowl cost if you dealt combat damage to a player this turn with a Rogue.)\nLook at the top four cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order.", 
+    "type": "Tribal Instant \u2014 Rogue", 
+    "types": [
+      "Tribal", 
+      "Instant"
+    ]
+  }, 
+  {
+    "cmc": 2, 
+    "colorIdentity": [
+      "W"
+    ], 
+    "colors": [
+      "White"
+    ], 
+    "imageName": "militia's pride", 
+    "layout": "normal", 
+    "legalities": [
+      {
+        "format": "Commander", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Legacy", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Lorwyn-Shadowmoor Block", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Modern", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Vintage", 
+        "legality": "Legal"
+      }
+    ], 
+    "manaCost": "{1}{W}", 
+    "name": "Militia's Pride", 
+    "printings": [
+      "LRW"
+    ], 
+    "rulings": [
+      {
+        "date": "2007-10-01", 
+        "text": "The token enters the battlefield attacking. It doesn't trigger \"when a creature attacks\" triggers and is not subject to restrictions on declaring attackers."
+      }, 
+      {
+        "date": "2007-10-01", 
+        "text": "You choose which player or planeswalker the token is attacking. It doesn't have to attack the same player or planeswalker as the creature that caused the ability to trigger."
+      }
+    ], 
+    "subtypes": [
+      "Kithkin"
+    ], 
+    "text": "Whenever a nontoken creature you control attacks, you may pay {W}. If you do, create a 1/1 white Kithkin Soldier creature token that's tapped and attacking.", 
+    "type": "Tribal Enchantment \u2014 Kithkin", 
+    "types": [
+      "Tribal", 
+      "Enchantment"
+    ]
+  }, 
+  {
+    "cmc": 1, 
+    "colorIdentity": [
+      "W"
+    ], 
+    "colors": [
+      "White"
+    ], 
+    "imageName": "shields of velis vel", 
+    "layout": "normal", 
+    "legalities": [
+      {
+        "format": "Commander", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Legacy", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Lorwyn-Shadowmoor Block", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Modern", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Vintage", 
+        "legality": "Legal"
+      }
+    ], 
+    "manaCost": "{W}", 
+    "name": "Shields of Velis Vel", 
+    "printings": [
+      "LRW"
+    ], 
+    "rulings": [
+      {
+        "date": "2013-07-01", 
+        "text": "Examples of creature types include Sliver, Goblin, and Soldier. Creature types appear after the dash on the type line of creatures."
+      }
+    ], 
+    "subtypes": [
+      "Shapeshifter"
+    ], 
+    "text": "Changeling (This card is every creature type.)\nCreatures target player controls get +0/+1 and gain all creature types until end of turn.", 
+    "type": "Tribal Instant \u2014 Shapeshifter", 
+    "types": [
+      "Tribal", 
+      "Instant"
+    ]
+  }, 
+  {
+    "cmc": 7, 
+    "imageName": "skittering invasion", 
+    "layout": "normal", 
+    "legalities": [
+      {
+        "format": "Commander", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Legacy", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Modern", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Vintage", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Zendikar Block", 
+        "legality": "Legal"
+      }
+    ], 
+    "manaCost": "{7}", 
+    "name": "Skittering Invasion", 
+    "printings": [
+      "ROE"
+    ], 
+    "subtypes": [
+      "Eldrazi"
+    ], 
+    "text": "Create five 0/1 colorless Eldrazi Spawn creature tokens. They have \"Sacrifice this creature: Add {C} to your mana pool.\"", 
+    "type": "Tribal Sorcery \u2014 Eldrazi", 
+    "types": [
+      "Tribal", 
+      "Sorcery"
+    ]
+  }, 
+  {
+    "cmc": 2, 
+    "colorIdentity": [
+      "G"
+    ], 
+    "colors": [
+      "Green"
+    ], 
+    "imageName": "lignify", 
+    "layout": "normal", 
+    "legalities": [
+      {
+        "format": "Commander", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Legacy", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Lorwyn-Shadowmoor Block", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Modern", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Vintage", 
+        "legality": "Legal"
+      }
+    ], 
+    "manaCost": "{1}{G}", 
+    "name": "Lignify", 
+    "printings": [
+      "LRW", 
+      "DDD", 
+      "DD3_GVL"
+    ], 
+    "rulings": [
+      {
+        "date": "2007-10-01", 
+        "text": "Lignify overwrites characteristic-defining abilities that specify the enchanted creature's power or toughness (such as the one Dauntless Dourbark has) or that specify its creature types (such as changeling does)."
+      }, 
+      {
+        "date": "2007-10-01", 
+        "text": "Lignify will overwrite static abilities that come from the creature itself (such as the one on Verduran Enchantress) because Lignify causes the creature to lose that ability before it gets a chance to apply."
+      }, 
+      {
+        "date": "2007-10-01", 
+        "text": "Lignify overwrites previous effects that changed the enchanted creature's creature types. Any such effects that apply after Lignify enters the battlefield will work normally."
+      }, 
+      {
+        "date": "2007-10-01", 
+        "text": "Lignify causes the enchanted creature to lose all abilities it had at the time it became enchanted. Any abilities granted to the creature after Lignify entered the battlefield will work normally."
+      }, 
+      {
+        "date": "2007-10-01", 
+        "text": "If a previous effect switched the creature's power and toughness, that effect still applies (though it will apply to the creature's new power and toughness)."
+      }, 
+      {
+        "date": "2007-10-01", 
+        "text": "If the enchanted creature has a characteristic-defining ability that specifies its color, that ability will still have its effect because it's applied before the creature loses the ability."
+      }, 
+      {
+        "date": "2007-10-01", 
+        "text": "If Lignify leaves the battlefield, the creature goes back to being what it was before. Any effects that applied while the Lignify was on the battlefield, such as Giant Growth or Lace with Moonglove, will continue to apply."
+      }, 
+      {
+        "date": "2009-10-01", 
+        "text": "Lignify will overwrite any previous effects that set the enchanted creature's power or toughness (such as Serendib Sorcerer does). Any such effects that apply after Lignify entered the battlefield will work normally."
+      }, 
+      {
+        "date": "2009-10-01", 
+        "text": "Lignify will not overwrite effects such as those from Glorious Anthem, counters, or Giant Growth that change the enchanted creature's power or toughness without setting it to a specific value. Apply such effects after applying Lignify."
+      }
+    ], 
+    "subtypes": [
+      "Treefolk", 
+      "Aura"
+    ], 
+    "text": "Enchant creature\nEnchanted creature is a Treefolk with base power and toughness 0/4 and loses all abilities.", 
+    "type": "Tribal Enchantment \u2014 Treefolk Aura", 
+    "types": [
+      "Tribal", 
+      "Enchantment"
+    ]
+  }, 
+  {
+    "cmc": 3, 
+    "imageName": "diviner's wand", 
+    "layout": "normal", 
+    "legalities": [
+      {
+        "format": "Commander", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Legacy", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Lorwyn-Shadowmoor Block", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Modern", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Vintage", 
+        "legality": "Legal"
+      }
+    ], 
+    "manaCost": "{3}", 
+    "name": "Diviner's Wand", 
+    "printings": [
+      "MOR"
+    ], 
+    "rulings": [
+      {
+        "date": "2008-04-01", 
+        "text": "Each of these Equipment has two subtypes listed on its type line. The first one is a creature type, which in this case is also a subtype of tribal. The second one is Equipment, which is a subtype of artifact."
+      }, 
+      {
+        "date": "2008-04-01", 
+        "text": "Each of these Equipment has a triggered ability that says \"Whenever a [creature type] creature enters the battlefield, you may attach [this Equipment] to it.\" This triggers whenever any creature of the specified creature type enters the battlefield, no matter who controls it. You may attach your Equipment to another player's creature this way, even though you can't do so with the equip ability."
+      }, 
+      {
+        "date": "2008-04-01", 
+        "text": "If you attach an Equipment you control to another player's creature, you retain control of the Equipment, but you don't control the creature. Only you can activate the Equipment's equip ability, and if the Equipment's ability triggers again, you choose whether to move the Equipment. Only the creature's controller can activate any activated abilities the Equipment grants to the creature, and \"you\" in any abilities granted to the creature refers to that player."
+      }
+    ], 
+    "subtypes": [
+      "Wizard", 
+      "Equipment"
+    ], 
+    "text": "Equipped creature has \"Whenever you draw a card, this creature gets +1/+1 and gains flying until end of turn\" and \"{4}: Draw a card.\"\nWhenever a Wizard creature enters the battlefield, you may attach Diviner's Wand to it.\nEquip {3}", 
+    "type": "Tribal Artifact \u2014 Wizard Equipment", 
+    "types": [
+      "Tribal", 
+      "Artifact"
+    ]
+  }, 
+  {
+    "cmc": 5, 
+    "colorIdentity": [
+      "G"
+    ], 
+    "colors": [
+      "Green"
+    ], 
+    "imageName": "rootgrapple", 
+    "layout": "normal", 
+    "legalities": [
+      {
+        "format": "Commander", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Legacy", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Lorwyn-Shadowmoor Block", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Modern", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Vintage", 
+        "legality": "Legal"
+      }
+    ], 
+    "manaCost": "{4}{G}", 
+    "name": "Rootgrapple", 
+    "printings": [
+      "LRW"
+    ], 
+    "subtypes": [
+      "Treefolk"
+    ], 
+    "text": "Destroy target noncreature permanent. If you control a Treefolk, draw a card.", 
+    "type": "Tribal Instant \u2014 Treefolk", 
+    "types": [
+      "Tribal", 
+      "Instant"
+    ]
+  }, 
+  {
+    "cmc": 2, 
+    "colorIdentity": [
+      "B"
+    ], 
+    "colors": [
+      "Black"
+    ], 
+    "imageName": "bitterblossom", 
+    "layout": "normal", 
+    "legalities": [
+      {
+        "format": "Commander", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Legacy", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Lorwyn-Shadowmoor Block", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Modern", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Vintage", 
+        "legality": "Legal"
+      }
+    ], 
+    "manaCost": "{1}{B}", 
+    "name": "Bitterblossom", 
+    "printings": [
+      "pJGP", 
+      "MOR", 
+      "MM2"
+    ], 
+    "rulings": [
+      {
+        "date": "2008-04-01", 
+        "text": "The effect is mandatory. You'll lose 1 life even if you have only 1 life left."
+      }, 
+      {
+        "date": "2008-04-01", 
+        "text": "The life loss isn't a payment. You'll get a token even if you had 0 life (and another effect is stopping you from losing the game)."
+      }
+    ], 
+    "subtypes": [
+      "Faerie"
+    ], 
+    "text": "At the beginning of your upkeep, you lose 1 life and create a 1/1 black Faerie Rogue creature token with flying.", 
+    "type": "Tribal Enchantment \u2014 Faerie", 
+    "types": [
+      "Tribal", 
+      "Enchantment"
+    ]
+  }, 
+  {
+    "cmc": 2, 
+    "colorIdentity": [
+      "U"
+    ], 
+    "colors": [
+      "Blue"
+    ], 
+    "imageName": "wings of velis vel", 
+    "layout": "normal", 
+    "legalities": [
+      {
+        "format": "Commander", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Legacy", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Lorwyn-Shadowmoor Block", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Modern", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Vintage", 
+        "legality": "Legal"
+      }
+    ], 
+    "manaCost": "{1}{U}", 
+    "name": "Wings of Velis Vel", 
+    "printings": [
+      "LRW", 
+      "MM2"
+    ], 
+    "rulings": [
+      {
+        "date": "2013-07-01", 
+        "text": "Examples of creature types include Sliver, Goblin, and Soldier. Creature types appear after the dash on the type line of creatures."
+      }
+    ], 
+    "subtypes": [
+      "Shapeshifter"
+    ], 
+    "text": "Changeling (This card is every creature type.)\nUntil end of turn, target creature has base power and toughness 4/4, gains all creature types, and gains flying.", 
+    "type": "Tribal Instant \u2014 Shapeshifter", 
+    "types": [
+      "Tribal", 
+      "Instant"
+    ]
+  }, 
+  {
+    "cmc": 4, 
+    "colorIdentity": [
+      "B"
+    ], 
+    "colors": [
+      "Black"
+    ], 
+    "imageName": "noggin whack", 
+    "layout": "normal", 
+    "legalities": [
+      {
+        "format": "Commander", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Legacy", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Lorwyn-Shadowmoor Block", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Modern", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Vintage", 
+        "legality": "Legal"
+      }
+    ], 
+    "manaCost": "{2}{B}{B}", 
+    "name": "Noggin Whack", 
+    "printings": [
+      "MOR"
+    ], 
+    "rulings": [
+      {
+        "date": "2008-04-01", 
+        "text": "If the player has fewer than three cards in his or her hand, the player reveals all of them, you choose all of them, and they're all discarded."
+      }
+    ], 
+    "subtypes": [
+      "Rogue"
+    ], 
+    "text": "Prowl {1}{B} (You may cast this for its prowl cost if you dealt combat damage to a player this turn with a Rogue.)\nTarget player reveals three cards from his or her hand. You choose two of them. That player discards those cards.", 
+    "type": "Tribal Sorcery \u2014 Rogue", 
+    "types": [
+      "Tribal", 
+      "Sorcery"
+    ]
+  }, 
+  {
+    "cmc": 8, 
+    "imageName": "eldrazi conscription", 
+    "layout": "normal", 
+    "legalities": [
+      {
+        "format": "Commander", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Legacy", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Modern", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Vintage", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Zendikar Block", 
+        "legality": "Legal"
+      }
+    ], 
+    "manaCost": "{8}", 
+    "name": "Eldrazi Conscription", 
+    "printings": [
+      "ROE"
+    ], 
+    "rulings": [
+      {
+        "date": "2010-06-15", 
+        "text": "Annihilator abilities trigger and resolve during the declare attackers step. The defending player chooses and sacrifices the required number of permanents before he or she declares blockers. Any creatures sacrificed this way won't be able to block."
+      }, 
+      {
+        "date": "2010-06-15", 
+        "text": "If a creature with annihilator is attacking a planeswalker, and the defending player chooses to sacrifice that planeswalker, the attacking creature continues to attack. It may be blocked. If it isn't blocked, it simply won't deal combat damage to anything."
+      }, 
+      {
+        "date": "2010-06-15", 
+        "text": "In a Two-Headed Giant game, the controller of an attacking creature with annihilator chooses which of the defending players is affected by the ability. Only that player sacrifices permanents. The choice is made as the ability resolves; once a player is chosen, it's too late for anyone to respond."
+      }, 
+      {
+        "date": "2010-06-15", 
+        "text": "Eldrazi Conscription is an Eldrazi. However, it doesn't turn the enchanted creature into an Eldrazi."
+      }
+    ], 
+    "subtypes": [
+      "Eldrazi", 
+      "Aura"
+    ], 
+    "text": "Enchant creature\nEnchanted creature gets +10/+10 and has trample and annihilator 2. (Whenever it attacks, defending player sacrifices two permanents.)", 
+    "type": "Tribal Enchantment \u2014 Eldrazi Aura", 
+    "types": [
+      "Tribal", 
+      "Enchantment"
+    ]
+  }, 
+  {
+    "cmc": 4, 
+    "colorIdentity": [
+      "R"
+    ], 
+    "colors": [
+      "Red"
+    ], 
+    "imageName": "rebellion of the flamekin", 
+    "layout": "normal", 
+    "legalities": [
+      {
+        "format": "Commander", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Legacy", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Lorwyn-Shadowmoor Block", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Modern", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Vintage", 
+        "legality": "Legal"
+      }
+    ], 
+    "manaCost": "{3}{R}", 
+    "name": "Rebellion of the Flamekin", 
+    "printings": [
+      "LRW"
+    ], 
+    "rulings": [
+      {
+        "date": "2013-09-20", 
+        "text": "If you clash because of a spell or ability an opponent controls, the ability will still trigger. Likewise, you can still win the clash even if you weren't the player to initiate it."
+      }
+    ], 
+    "subtypes": [
+      "Elemental"
+    ], 
+    "text": "Whenever you clash, you may pay {1}. If you do, create a 3/1 red Elemental Shaman creature token. If you won, that token gains haste until end of turn. (This ability triggers after the clash ends.)", 
+    "type": "Tribal Enchantment \u2014 Elemental", 
+    "types": [
+      "Tribal", 
+      "Enchantment"
+    ]
+  }, 
+  {
+    "cmc": 7, 
+    "imageName": "all is dust", 
+    "layout": "normal", 
+    "legalities": [
+      {
+        "format": "Commander", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Legacy", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Modern", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Vintage", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Zendikar Block", 
+        "legality": "Legal"
+      }
+    ], 
+    "manaCost": "{7}", 
+    "name": "All Is Dust", 
+    "printings": [
+      "pGPX", 
+      "ROE", 
+      "MM2"
+    ], 
+    "rulings": [
+      {
+        "date": "2010-06-15", 
+        "text": "A colored permanent is a permanent with at least one colored mana symbol in its mana cost. Note that effects may cause a colored permanent to become colorless (as Moonlace could), or a colorless permanent to become colored (as Crimson Wisps could)."
+      }, 
+      {
+        "date": "2010-06-15", 
+        "text": "Tokens may also be colored permanents. The effect that creates a token states what color it is or whether it's colorless."
+      }, 
+      {
+        "date": "2010-06-15", 
+        "text": "Lands have no mana cost, so they are colorless unless an effect states otherwise."
+      }, 
+      {
+        "date": "2010-06-15", 
+        "text": "All the colored permanents are sacrificed at the same time."
+      }, 
+      {
+        "date": "2013-07-01", 
+        "text": "All Is Dust doesn't destroy permanents. Rather, it causes them to be sacrificed. Regeneration, totem armor, and indestructibile can't save permanents from All Is Dust."
+      }
+    ], 
+    "subtypes": [
+      "Eldrazi"
+    ], 
+    "text": "Each player sacrifices all colored permanents he or she controls.", 
+    "type": "Tribal Sorcery \u2014 Eldrazi", 
+    "types": [
+      "Tribal", 
+      "Sorcery"
+    ]
+  }, 
+  {
+    "cmc": 2, 
+    "colorIdentity": [
+      "W"
+    ], 
+    "colors": [
+      "White"
+    ], 
+    "imageName": "favor of the mighty", 
+    "layout": "normal", 
+    "legalities": [
+      {
+        "format": "Commander", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Legacy", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Lorwyn-Shadowmoor Block", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Modern", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Vintage", 
+        "legality": "Legal"
+      }
+    ], 
+    "manaCost": "{1}{W}", 
+    "name": "Favor of the Mighty", 
+    "printings": [
+      "LRW"
+    ], 
+    "rulings": [
+      {
+        "date": "2007-10-01", 
+        "text": "If there's a tie for highest converted mana cost, all of those creatures have protection from all colors."
+      }, 
+      {
+        "date": "2007-10-01", 
+        "text": "This effect is checked continuously. If a new creature enters the battlefield with the highest converted mana cost, it gains protection from all colors and the previous highest loses it."
+      }, 
+      {
+        "date": "2007-10-01", 
+        "text": "If a creature has X in its mana cost, that X is treated as 0 for the purposes of this effect. It doesn't matter what the value of X was while the creature was on the stack."
+      }
+    ], 
+    "subtypes": [
+      "Giant"
+    ], 
+    "text": "Each creature with the highest converted mana cost has protection from all colors.", 
+    "type": "Tribal Enchantment \u2014 Giant", 
+    "types": [
+      "Tribal", 
+      "Enchantment"
+    ]
+  }, 
+  {
+    "cmc": 2, 
+    "colorIdentity": [
+      "B"
+    ], 
+    "colors": [
+      "Black"
+    ], 
+    "imageName": "warren weirding", 
+    "layout": "normal", 
+    "legalities": [
+      {
+        "format": "Commander", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Legacy", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Lorwyn-Shadowmoor Block", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Modern", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Vintage", 
+        "legality": "Legal"
+      }
+    ], 
+    "manaCost": "{1}{B}", 
+    "name": "Warren Weirding", 
+    "printings": [
+      "MOR", 
+      "MMA"
+    ], 
+    "subtypes": [
+      "Goblin"
+    ], 
+    "text": "Target player sacrifices a creature. If a Goblin is sacrificed this way, that player creates two 1/1 black Goblin Rogue creature tokens, and those tokens gain haste until end of turn.", 
+    "type": "Tribal Sorcery \u2014 Goblin", 
+    "types": [
+      "Tribal", 
+      "Sorcery"
+    ]
+  }, 
+  {
+    "cmc": 1, 
+    "colorIdentity": [
+      "U"
+    ], 
+    "colors": [
+      "Blue"
+    ], 
+    "imageName": "aquitect's will", 
+    "layout": "normal", 
+    "legalities": [
+      {
+        "format": "Commander", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Legacy", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Lorwyn-Shadowmoor Block", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Modern", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Vintage", 
+        "legality": "Legal"
+      }
+    ], 
+    "manaCost": "{U}", 
+    "name": "Aquitect's Will", 
+    "printings": [
+      "LRW"
+    ], 
+    "subtypes": [
+      "Merfolk"
+    ], 
+    "text": "Put a flood counter on target land. That land is an Island in addition to its other types for as long as it has a flood counter on it. If you control a Merfolk, draw a card.", 
+    "type": "Tribal Sorcery \u2014 Merfolk", 
+    "types": [
+      "Tribal", 
+      "Sorcery"
+    ]
+  }, 
+  {
+    "cmc": 3, 
+    "colorIdentity": [
+      "W"
+    ], 
+    "colors": [
+      "White"
+    ], 
+    "imageName": "bound in silence", 
+    "layout": "normal", 
+    "legalities": [
+      {
+        "format": "Commander", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Legacy", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Modern", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Time Spiral Block", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Vintage", 
+        "legality": "Legal"
+      }
+    ], 
+    "manaCost": "{2}{W}", 
+    "name": "Bound in Silence", 
+    "printings": [
+      "FUT", 
+      "MMA"
+    ], 
+    "rulings": [
+      {
+        "date": "2007-05-01", 
+        "text": "If you put Bound in Silence onto the battlefield without casting it, perhaps using the \"recruiting\" ability of a card like Amrou Scout, it will enter attached to a creature. You choose that creature as you're putting it onto the battlefield. If there's no creature on the battlefield it can be attached to, it stays in whatever zone it was in."
+      }, 
+      {
+        "date": "2007-05-01", 
+        "text": "Bound in Silence isn't a creature and isn't affected by any effect that affects creatures or Rebel creatures."
+      }
+    ], 
+    "subtypes": [
+      "Rebel", 
+      "Aura"
+    ], 
+    "text": "Enchant creature\nEnchanted creature can't attack or block.", 
+    "type": "Tribal Enchantment \u2014 Rebel Aura", 
+    "types": [
+      "Tribal", 
+      "Enchantment"
+    ]
+  }, 
+  {
+    "cmc": 4, 
+    "colorIdentity": [
+      "U"
+    ], 
+    "colors": [
+      "Blue"
+    ], 
+    "imageName": "notorious throng", 
+    "layout": "normal", 
+    "legalities": [
+      {
+        "format": "Commander", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Legacy", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Lorwyn-Shadowmoor Block", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Modern", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Vintage", 
+        "legality": "Legal"
+      }
+    ], 
+    "manaCost": "{3}{U}", 
+    "name": "Notorious Throng", 
+    "printings": [
+      "MOR"
+    ], 
+    "rulings": [
+      {
+        "date": "2008-04-01", 
+        "text": "To determine the value of X, this spell looks back over the course of the turn and counts all damage dealt by all sources to players who are currently your opponents, as well as damage dealt by all sources to players who were your opponents at the time they left the game."
+      }
+    ], 
+    "subtypes": [
+      "Rogue"
+    ], 
+    "text": "Prowl {5}{U} (You may cast this for its prowl cost if you dealt combat damage to a player this turn with a Rogue.)\nCreate X 1/1 black Faerie Rogue creature tokens with flying, where X is the damage dealt to your opponents this turn. If Notorious Throng's prowl cost was paid, take an extra turn after this one.", 
+    "type": "Tribal Sorcery \u2014 Rogue", 
+    "types": [
+      "Tribal", 
+      "Sorcery"
+    ]
+  }, 
+  {
+    "cmc": 1, 
+    "colorIdentity": [
+      "R"
+    ], 
+    "colors": [
+      "Red"
+    ], 
+    "imageName": "tarfire", 
+    "layout": "normal", 
+    "legalities": [
+      {
+        "format": "Commander", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Legacy", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Lorwyn-Shadowmoor Block", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Modern", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Vintage", 
+        "legality": "Legal"
+      }
+    ], 
+    "manaCost": "{R}", 
+    "name": "Tarfire", 
+    "printings": [
+      "LRW", 
+      "EVG", 
+      "DD3_EVG"
+    ], 
+    "subtypes": [
+      "Goblin"
+    ], 
+    "text": "Tarfire deals 2 damage to target creature or player.", 
+    "type": "Tribal Instant \u2014 Goblin", 
+    "types": [
+      "Tribal", 
+      "Instant"
+    ]
+  }, 
+  {
+    "cmc": 5, 
+    "colorIdentity": [
+      "G"
+    ], 
+    "colors": [
+      "Green"
+    ], 
+    "imageName": "reach of branches", 
+    "layout": "normal", 
+    "legalities": [
+      {
+        "format": "Commander", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Legacy", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Lorwyn-Shadowmoor Block", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Modern", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Vintage", 
+        "legality": "Legal"
+      }
+    ], 
+    "manaCost": "{4}{G}", 
+    "name": "Reach of Branches", 
+    "printings": [
+      "MOR", 
+      "MMA"
+    ], 
+    "rulings": [
+      {
+        "date": "2008-04-01", 
+        "text": "The triggered ability will trigger whenever any land with the subtype Forest enters the battlefield under your control, not just one named Forest."
+      }, 
+      {
+        "date": "2008-04-01", 
+        "text": "If Reach of Branches leaves your graveyard before its triggered ability resolves, the ability will have no effect, even if the card returns to your graveyard before then."
+      }
+    ], 
+    "subtypes": [
+      "Treefolk"
+    ], 
+    "text": "Create a 2/5 green Treefolk Shaman creature token.\nWhenever a Forest enters the battlefield under your control, you may return Reach of Branches from your graveyard to your hand.", 
+    "type": "Tribal Instant \u2014 Treefolk", 
+    "types": [
+      "Tribal", 
+      "Instant"
+    ]
+  }, 
+  {
+    "cmc": 3, 
+    "colorIdentity": [
+      "B"
+    ], 
+    "colors": [
+      "Black"
+    ], 
+    "imageName": "eyeblight's ending", 
+    "layout": "normal", 
+    "legalities": [
+      {
+        "format": "Commander", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Legacy", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Lorwyn-Shadowmoor Block", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Modern", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Vintage", 
+        "legality": "Legal"
+      }
+    ], 
+    "manaCost": "{2}{B}", 
+    "name": "Eyeblight's Ending", 
+    "printings": [
+      "LRW", 
+      "DPA", 
+      "EMA"
+    ], 
+    "subtypes": [
+      "Elf"
+    ], 
+    "text": "Destroy target non-Elf creature.", 
+    "type": "Tribal Instant \u2014 Elf", 
+    "types": [
+      "Tribal", 
+      "Instant"
+    ]
+  }, 
+  {
+    "cmc": 5, 
+    "colorIdentity": [
+      "B"
+    ], 
+    "colors": [
+      "Black"
+    ], 
+    "imageName": "violet pall", 
+    "layout": "normal", 
+    "legalities": [
+      {
+        "format": "Commander", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Legacy", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Lorwyn-Shadowmoor Block", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Modern", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Vintage", 
+        "legality": "Legal"
+      }
+    ], 
+    "manaCost": "{4}{B}", 
+    "name": "Violet Pall", 
+    "printings": [
+      "MOR"
+    ], 
+    "rulings": [
+      {
+        "date": "2008-04-01", 
+        "text": "You get the token, not the player who controlled the creature."
+      }
+    ], 
+    "subtypes": [
+      "Faerie"
+    ], 
+    "text": "Destroy target nonblack creature. Create a 1/1 black Faerie Rogue creature token with flying.", 
+    "type": "Tribal Instant \u2014 Faerie", 
+    "types": [
+      "Tribal", 
+      "Instant"
+    ]
+  }, 
+  {
+    "cmc": 4, 
+    "colorIdentity": [
+      "B"
+    ], 
+    "colors": [
+      "Black"
+    ], 
+    "imageName": "morsel theft", 
+    "layout": "normal", 
+    "legalities": [
+      {
+        "format": "Commander", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Legacy", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Lorwyn-Shadowmoor Block", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Modern", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Vintage", 
+        "legality": "Legal"
+      }
+    ], 
+    "manaCost": "{2}{B}{B}", 
+    "name": "Morsel Theft", 
+    "printings": [
+      "MOR"
+    ], 
+    "subtypes": [
+      "Rogue"
+    ], 
+    "text": "Prowl {1}{B} (You may cast this for its prowl cost if you dealt combat damage to a player this turn with a Rogue.)\nTarget player loses 3 life and you gain 3 life. If Morsel Theft's prowl cost was paid, draw a card.", 
+    "type": "Tribal Sorcery \u2014 Rogue", 
+    "types": [
+      "Tribal", 
+      "Sorcery"
+    ]
+  }, 
+  {
+    "cmc": 2, 
+    "imageName": "veteran's armaments", 
+    "layout": "normal", 
+    "legalities": [
+      {
+        "format": "Commander", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Legacy", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Lorwyn-Shadowmoor Block", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Modern", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Vintage", 
+        "legality": "Legal"
+      }
+    ], 
+    "manaCost": "{2}", 
+    "name": "Veteran's Armaments", 
+    "printings": [
+      "MOR"
+    ], 
+    "subtypes": [
+      "Soldier", 
+      "Equipment"
+    ], 
+    "text": "Equipped creature has \"Whenever this creature attacks or blocks, it gets +1/+1 until end of turn for each attacking creature.\"\nWhenever a Soldier creature enters the battlefield, you may attach Veteran's Armaments to it.\nEquip {2}", 
+    "type": "Tribal Artifact \u2014 Soldier Equipment", 
+    "types": [
+      "Tribal", 
+      "Artifact"
+    ]
+  }, 
+  {
+    "cmc": 4, 
+    "colorIdentity": [
+      "G"
+    ], 
+    "colors": [
+      "Green"
+    ], 
+    "imageName": "hunting triad", 
+    "layout": "normal", 
+    "legalities": [
+      {
+        "format": "Commander", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Legacy", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Lorwyn-Shadowmoor Block", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Modern", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Vintage", 
+        "legality": "Legal"
+      }
+    ], 
+    "manaCost": "{3}{G}", 
+    "name": "Hunting Triad", 
+    "printings": [
+      "MOR", 
+      "C14"
+    ], 
+    "subtypes": [
+      "Elf"
+    ], 
+    "text": "Create three 1/1 green Elf Warrior creature tokens.\nReinforce 3\u2014{3}{G} ({3}{G}, Discard this card: Put three +1/+1 counters on target creature.)", 
+    "type": "Tribal Sorcery \u2014 Elf", 
+    "types": [
+      "Tribal", 
+      "Sorcery"
+    ]
+  }, 
+  {
+    "cmc": 3, 
+    "colorIdentity": [
+      "U"
+    ], 
+    "colors": [
+      "Blue"
+    ], 
+    "imageName": "ego erasure", 
+    "layout": "normal", 
+    "legalities": [
+      {
+        "format": "Commander", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Legacy", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Lorwyn-Shadowmoor Block", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Modern", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Vintage", 
+        "legality": "Legal"
+      }
+    ], 
+    "manaCost": "{2}{U}", 
+    "name": "Ego Erasure", 
+    "printings": [
+      "LRW"
+    ], 
+    "rulings": [
+      {
+        "date": "2007-10-01", 
+        "text": "If a creature loses all creature types but then gains a new creature type later in the turn, it will be that new creature type."
+      }, 
+      {
+        "date": "2013-07-01", 
+        "text": "Examples of creature types include Sliver, Goblin, and Soldier. Creature types appear after the dash on the type line of creatures."
+      }
+    ], 
+    "subtypes": [
+      "Shapeshifter"
+    ], 
+    "text": "Changeling (This card is every creature type.)\nCreatures target player controls get -2/-0 and lose all creature types until end of turn.", 
+    "type": "Tribal Instant \u2014 Shapeshifter", 
+    "types": [
+      "Tribal", 
+      "Instant"
+    ]
+  }, 
+  {
+    "cmc": 1, 
+    "colorIdentity": [
+      "U"
+    ], 
+    "colors": [
+      "Blue"
+    ], 
+    "imageName": "stream of unconsciousness", 
+    "layout": "normal", 
+    "legalities": [
+      {
+        "format": "Commander", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Legacy", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Lorwyn-Shadowmoor Block", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Modern", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Vintage", 
+        "legality": "Legal"
+      }
+    ], 
+    "manaCost": "{U}", 
+    "name": "Stream of Unconsciousness", 
+    "printings": [
+      "MOR"
+    ], 
+    "subtypes": [
+      "Wizard"
+    ], 
+    "text": "Target creature gets -4/-0 until end of turn. If you control a Wizard, draw a card.", 
+    "type": "Tribal Instant \u2014 Wizard", 
+    "types": [
+      "Tribal", 
+      "Instant"
+    ]
+  }, 
+  {
+    "cmc": 3, 
+    "colorIdentity": [
+      "B"
+    ], 
+    "colors": [
+      "Black"
+    ], 
+    "imageName": "faerie tauntings", 
+    "layout": "normal", 
+    "legalities": [
+      {
+        "format": "Commander", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Legacy", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Lorwyn-Shadowmoor Block", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Modern", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Vintage", 
+        "legality": "Legal"
+      }
+    ], 
+    "manaCost": "{2}{B}", 
+    "name": "Faerie Tauntings", 
+    "printings": [
+      "LRW"
+    ], 
+    "rulings": [
+      {
+        "date": "2007-10-01", 
+        "text": "You choose either to have each opponent lose 1 life or to have no opponent lose any life. You don't choose for each opponent individually."
+      }
+    ], 
+    "subtypes": [
+      "Faerie"
+    ], 
+    "text": "Whenever you cast a spell during an opponent's turn, you may have each opponent lose 1 life.", 
+    "type": "Tribal Enchantment \u2014 Faerie", 
+    "types": [
+      "Tribal", 
+      "Enchantment"
+    ]
+  }, 
+  {
+    "cmc": 2, 
+    "colorIdentity": [
+      "G"
+    ], 
+    "colors": [
+      "Green"
+    ], 
+    "imageName": "eyes of the wisent", 
+    "layout": "normal", 
+    "legalities": [
+      {
+        "format": "Commander", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Legacy", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Lorwyn-Shadowmoor Block", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Modern", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Vintage", 
+        "legality": "Legal"
+      }
+    ], 
+    "manaCost": "{1}{G}", 
+    "name": "Eyes of the Wisent", 
+    "printings": [
+      "LRW"
+    ], 
+    "subtypes": [
+      "Elemental"
+    ], 
+    "text": "Whenever an opponent casts a blue spell during your turn, you may create a 4/4 green Elemental creature token.", 
+    "type": "Tribal Enchantment \u2014 Elemental", 
+    "types": [
+      "Tribal", 
+      "Enchantment"
+    ]
+  }, 
+  {
+    "cmc": 3, 
+    "colorIdentity": [
+      "U"
+    ], 
+    "colors": [
+      "Blue"
+    ], 
+    "imageName": "faerie trickery", 
+    "layout": "normal", 
+    "legalities": [
+      {
+        "format": "Commander", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Legacy", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Lorwyn-Shadowmoor Block", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Modern", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Vintage", 
+        "legality": "Legal"
+      }
+    ], 
+    "manaCost": "{1}{U}{U}", 
+    "name": "Faerie Trickery", 
+    "printings": [
+      "LRW"
+    ], 
+    "subtypes": [
+      "Faerie"
+    ], 
+    "text": "Counter target non-Faerie spell. If that spell is countered this way, exile it instead of putting it into its owner's graveyard.", 
+    "type": "Tribal Instant \u2014 Faerie", 
+    "types": [
+      "Tribal", 
+      "Instant"
+    ]
+  }, 
+  {
+    "cmc": 4, 
+    "colorIdentity": [
+      "R"
+    ], 
+    "colors": [
+      "Red"
+    ], 
+    "imageName": "giant's ire", 
+    "layout": "normal", 
+    "legalities": [
+      {
+        "format": "Commander", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Legacy", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Lorwyn-Shadowmoor Block", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Modern", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Vintage", 
+        "legality": "Legal"
+      }
+    ], 
+    "manaCost": "{3}{R}", 
+    "name": "Giant's Ire", 
+    "printings": [
+      "LRW"
+    ], 
+    "subtypes": [
+      "Giant"
+    ], 
+    "text": "Giant's Ire deals 4 damage to target player. If you control a Giant, draw a card.", 
+    "type": "Tribal Sorcery \u2014 Giant", 
+    "types": [
+      "Tribal", 
+      "Sorcery"
+    ]
+  }, 
+  {
+    "cmc": 3, 
+    "colorIdentity": [
+      "U"
+    ], 
+    "colors": [
+      "Blue"
+    ], 
+    "imageName": "sage's dousing", 
+    "layout": "normal", 
+    "legalities": [
+      {
+        "format": "Commander", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Legacy", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Lorwyn-Shadowmoor Block", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Modern", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Vintage", 
+        "legality": "Legal"
+      }
+    ], 
+    "manaCost": "{2}{U}", 
+    "name": "Sage's Dousing", 
+    "printings": [
+      "MOR"
+    ], 
+    "rulings": [
+      {
+        "date": "2008-04-01", 
+        "text": "If you control a Wizard, you draw a card regardless of whether the targeted spell was countered or {3} was paid."
+      }
+    ], 
+    "subtypes": [
+      "Wizard"
+    ], 
+    "text": "Counter target spell unless its controller pays {3}. If you control a Wizard, draw a card.", 
+    "type": "Tribal Instant \u2014 Wizard", 
+    "types": [
+      "Tribal", 
+      "Instant"
+    ]
+  }, 
+  {
+    "cmc": 2, 
+    "colorIdentity": [
+      "B"
+    ], 
+    "colors": [
+      "Black"
+    ], 
+    "imageName": "nameless inversion", 
+    "layout": "normal", 
+    "legalities": [
+      {
+        "format": "Commander", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Legacy", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Lorwyn-Shadowmoor Block", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Modern", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Vintage", 
+        "legality": "Legal"
+      }
+    ], 
+    "manaCost": "{1}{B}", 
+    "name": "Nameless Inversion", 
+    "printings": [
+      "pMPR", 
+      "LRW", 
+      "MM2"
+    ], 
+    "rulings": [
+      {
+        "date": "2007-10-01", 
+        "text": "If a creature loses all creature types but then gains a new creature type later in the turn, it will be that new creature type."
+      }, 
+      {
+        "date": "2013-07-01", 
+        "text": "Examples of creature types include Sliver, Goblin, and Soldier. Creature types appear after the dash on the type line of creatures."
+      }
+    ], 
+    "subtypes": [
+      "Shapeshifter"
+    ], 
+    "text": "Changeling (This card is every creature type.)\nTarget creature gets +3/-3 and loses all creature types until end of turn.", 
+    "type": "Tribal Instant \u2014 Shapeshifter", 
+    "types": [
+      "Tribal", 
+      "Instant"
+    ]
+  }, 
+  {
+    "cmc": 1, 
+    "colorIdentity": [
+      "B"
+    ], 
+    "colors": [
+      "Black"
+    ], 
+    "imageName": "peppersmoke", 
+    "layout": "normal", 
+    "legalities": [
+      {
+        "format": "Commander", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Legacy", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Lorwyn-Shadowmoor Block", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Modern", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Vintage", 
+        "legality": "Legal"
+      }
+    ], 
+    "manaCost": "{B}", 
+    "name": "Peppersmoke", 
+    "printings": [
+      "LRW", 
+      "MMA"
+    ], 
+    "rulings": [
+      {
+        "date": "2013-06-07", 
+        "text": "Peppersmoke checks if you control a Faerie only when it resolves."
+      }
+    ], 
+    "subtypes": [
+      "Faerie"
+    ], 
+    "text": "Target creature gets -1/-1 until end of turn. If you control a Faerie, draw a card.", 
+    "type": "Tribal Instant \u2014 Faerie", 
+    "types": [
+      "Tribal", 
+      "Instant"
+    ]
+  }, 
+  {
+    "cmc": 2, 
+    "imageName": "thornbite staff", 
+    "layout": "normal", 
+    "legalities": [
+      {
+        "format": "Commander", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Legacy", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Lorwyn-Shadowmoor Block", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Modern", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Vintage", 
+        "legality": "Legal"
+      }
+    ], 
+    "manaCost": "{2}", 
+    "name": "Thornbite Staff", 
+    "printings": [
+      "MOR"
+    ], 
+    "rulings": [
+      {
+        "date": "2008-04-01", 
+        "text": "Each of these Equipment has two subtypes listed on its type line. The first one is a creature type, which in this case is also a subtype of tribal. The second one is Equipment, which is a subtype of artifact."
+      }, 
+      {
+        "date": "2008-04-01", 
+        "text": "Each of these Equipment has a triggered ability that says \"Whenever a [creature type] creature enters the battlefield, you may attach [this Equipment] to it.\" This triggers whenever any creature of the specified creature type enters the battlefield, no matter who controls it. You may attach your Equipment to another player's creature this way, even though you can't do so with the equip ability."
+      }, 
+      {
+        "date": "2008-04-01", 
+        "text": "If you attach an Equipment you control to another player's creature, you retain control of the Equipment, but you don't control the creature. Only you can activate the Equipment's equip ability, and if the Equipment's ability triggers again, you choose whether to move the Equipment. Only the creature's controller can activate any activated abilities the Equipment grants to the creature, and \"you\" in any abilities granted to the creature refers to that player."
+      }
+    ], 
+    "subtypes": [
+      "Shaman", 
+      "Equipment"
+    ], 
+    "text": "Equipped creature has \"{2}, {T}: This creature deals 1 damage to target creature or player\" and \"Whenever a creature dies, untap this creature.\"\nWhenever a Shaman creature enters the battlefield, you may attach Thornbite Staff to it.\nEquip {4}", 
+    "type": "Tribal Artifact \u2014 Shaman Equipment", 
+    "types": [
+      "Tribal", 
+      "Artifact"
+    ]
+  }, 
+  {
+    "cmc": 2, 
+    "colorIdentity": [
+      "R"
+    ], 
+    "colors": [
+      "Red"
+    ], 
+    "imageName": "blades of velis vel", 
+    "layout": "normal", 
+    "legalities": [
+      {
+        "format": "Commander", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Legacy", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Lorwyn-Shadowmoor Block", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Modern", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Vintage", 
+        "legality": "Legal"
+      }
+    ], 
+    "manaCost": "{1}{R}", 
+    "name": "Blades of Velis Vel", 
+    "printings": [
+      "LRW", 
+      "MM2"
+    ], 
+    "rulings": [
+      {
+        "date": "2013-07-01", 
+        "text": "Examples of creature types include Sliver, Goblin, and Soldier. Creature types appear after the dash on the type line of creatures."
+      }
+    ], 
+    "subtypes": [
+      "Shapeshifter"
+    ], 
+    "text": "Changeling (This card is every creature type.)\nUp to two target creatures each get +2/+0 and gain all creature types until end of turn.", 
+    "type": "Tribal Instant \u2014 Shapeshifter", 
+    "types": [
+      "Tribal", 
+      "Instant"
+    ]
+  }, 
+  {
+    "cmc": 3, 
+    "imageName": "obsidian battle-axe", 
+    "layout": "normal", 
+    "legalities": [
+      {
+        "format": "Commander", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Legacy", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Lorwyn-Shadowmoor Block", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Modern", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Vintage", 
+        "legality": "Legal"
+      }
+    ], 
+    "manaCost": "{3}", 
+    "name": "Obsidian Battle-Axe", 
+    "printings": [
+      "MOR"
+    ], 
+    "rulings": [
+      {
+        "date": "2008-04-01", 
+        "text": "Each of these Equipment has two subtypes listed on its type line. The first one is a creature type, which in this case is also a subtype of tribal. The second one is Equipment, which is a subtype of artifact."
+      }, 
+      {
+        "date": "2008-04-01", 
+        "text": "Each of these Equipment has a triggered ability that says \"Whenever a [creature type] creature enters the battlefield, you may attach [this Equipment] to it.\" This triggers whenever any creature of the specified creature type enters the battlefield, no matter who controls it. You may attach your Equipment to another player's creature this way, even though you can't do so with the equip ability."
+      }, 
+      {
+        "date": "2008-04-01", 
+        "text": "If you attach an Equipment you control to another player's creature, you retain control of the Equipment, but you don't control the creature. Only you can activate the Equipment's equip ability, and if the Equipment's ability triggers again, you choose whether to move the Equipment. Only the creature's controller can activate any activated abilities the Equipment grants to the creature, and \"you\" in any abilities granted to the creature refers to that player."
+      }
+    ], 
+    "subtypes": [
+      "Warrior", 
+      "Equipment"
+    ], 
+    "text": "Equipped creature gets +2/+1 and has haste.\nWhenever a Warrior creature enters the battlefield, you may attach Obsidian Battle-Axe to it.\nEquip {3}", 
+    "type": "Tribal Artifact \u2014 Warrior Equipment", 
+    "types": [
+      "Tribal", 
+      "Artifact"
+    ]
+  }, 
+  {
+    "cmc": 4, 
+    "colorIdentity": [
+      "B"
+    ], 
+    "colors": [
+      "Black"
+    ], 
+    "imageName": "fodder launch", 
+    "layout": "normal", 
+    "legalities": [
+      {
+        "format": "Commander", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Legacy", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Lorwyn-Shadowmoor Block", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Modern", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Vintage", 
+        "legality": "Legal"
+      }
+    ], 
+    "manaCost": "{3}{B}", 
+    "name": "Fodder Launch", 
+    "printings": [
+      "LRW"
+    ], 
+    "subtypes": [
+      "Goblin"
+    ], 
+    "text": "As an additional cost to cast Fodder Launch, sacrifice a Goblin.\nTarget creature gets -5/-5 until end of turn. Fodder Launch deals 5 damage to that creature's controller.", 
+    "type": "Tribal Sorcery \u2014 Goblin", 
+    "types": [
+      "Tribal", 
+      "Sorcery"
+    ]
+  }, 
+  {
+    "cmc": 3, 
+    "colorIdentity": [
+      "W"
+    ], 
+    "colors": [
+      "White"
+    ], 
+    "imageName": "crib swap", 
+    "layout": "normal", 
+    "legalities": [
+      {
+        "format": "Commander", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Legacy", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Lorwyn-Shadowmoor Block", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Modern", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Vintage", 
+        "legality": "Legal"
+      }
+    ], 
+    "manaCost": "{2}{W}", 
+    "name": "Crib Swap", 
+    "printings": [
+      "LRW", 
+      "C15"
+    ], 
+    "subtypes": [
+      "Shapeshifter"
+    ], 
+    "text": "Changeling (This card is every creature type.)\nExile target creature. Its controller creates a 1/1 colorless Shapeshifter creature token with changeling.", 
+    "type": "Tribal Instant \u2014 Shapeshifter", 
+    "types": [
+      "Tribal", 
+      "Instant"
+    ]
+  }, 
+  {
+    "cmc": 4, 
+    "colorIdentity": [
+      "W"
+    ], 
+    "colors": [
+      "White"
+    ], 
+    "imageName": "summon the school", 
+    "layout": "normal", 
+    "legalities": [
+      {
+        "format": "Commander", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Legacy", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Lorwyn-Shadowmoor Block", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Modern", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Vintage", 
+        "legality": "Legal"
+      }
+    ], 
+    "manaCost": "{3}{W}", 
+    "name": "Summon the School", 
+    "printings": [
+      "LRW"
+    ], 
+    "subtypes": [
+      "Merfolk"
+    ], 
+    "text": "Create two 1/1 blue Merfolk Wizard creature tokens.\nTap four untapped Merfolk you control: Return Summon the School from your graveyard to your hand.", 
+    "type": "Tribal Sorcery \u2014 Merfolk", 
+    "types": [
+      "Tribal", 
+      "Sorcery"
+    ]
+  }, 
+  {
+    "cmc": 1, 
+    "colorIdentity": [
+      "B"
+    ], 
+    "colors": [
+      "Black"
+    ], 
+    "imageName": "boggart birth rite", 
+    "layout": "normal", 
+    "legalities": [
+      {
+        "format": "Commander", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Legacy", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Lorwyn-Shadowmoor Block", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Modern", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Vintage", 
+        "legality": "Legal"
+      }
+    ], 
+    "manaCost": "{B}", 
+    "name": "Boggart Birth Rite", 
+    "printings": [
+      "LRW"
+    ], 
+    "subtypes": [
+      "Goblin"
+    ], 
+    "text": "Return target Goblin card from your graveyard to your hand.", 
+    "type": "Tribal Sorcery \u2014 Goblin", 
+    "types": [
+      "Tribal", 
+      "Sorcery"
+    ]
+  }, 
+  {
+    "cmc": 2, 
+    "colorIdentity": [
+      "W"
+    ], 
+    "colors": [
+      "White"
+    ], 
+    "imageName": "surge of thoughtweft", 
+    "layout": "normal", 
+    "legalities": [
+      {
+        "format": "Commander", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Legacy", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Lorwyn-Shadowmoor Block", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Modern", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Vintage", 
+        "legality": "Legal"
+      }
+    ], 
+    "manaCost": "{1}{W}", 
+    "name": "Surge of Thoughtweft", 
+    "printings": [
+      "LRW"
+    ], 
+    "subtypes": [
+      "Kithkin"
+    ], 
+    "text": "Creatures you control get +1/+1 until end of turn. If you control a Kithkin, draw a card.", 
+    "type": "Tribal Instant \u2014 Kithkin", 
+    "types": [
+      "Tribal", 
+      "Instant"
+    ]
+  }, 
+  {
+    "cmc": 3, 
+    "colorIdentity": [
+      "R"
+    ], 
+    "colors": [
+      "Red"
+    ], 
+    "imageName": "boggart shenanigans", 
+    "layout": "normal", 
+    "legalities": [
+      {
+        "format": "Commander", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Legacy", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Lorwyn-Shadowmoor Block", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Modern", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Vintage", 
+        "legality": "Legal"
+      }
+    ], 
+    "manaCost": "{2}{R}", 
+    "name": "Boggart Shenanigans", 
+    "printings": [
+      "LRW", 
+      "EVG", 
+      "DD3_EVG"
+    ], 
+    "subtypes": [
+      "Goblin"
+    ], 
+    "text": "Whenever another Goblin you control is put into a graveyard from the battlefield, you may have Boggart Shenanigans deal 1 damage to target player.", 
+    "type": "Tribal Enchantment \u2014 Goblin", 
+    "types": [
+      "Tribal", 
+      "Enchantment"
+    ]
+  }, 
+  {
+    "cmc": 2, 
+    "imageName": "cloak and dagger", 
+    "layout": "normal", 
+    "legalities": [
+      {
+        "format": "Commander", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Legacy", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Lorwyn-Shadowmoor Block", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Modern", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Vintage", 
+        "legality": "Legal"
+      }
+    ], 
+    "manaCost": "{2}", 
+    "name": "Cloak and Dagger", 
+    "printings": [
+      "MOR"
+    ], 
+    "rulings": [
+      {
+        "date": "2008-04-01", 
+        "text": "Each of these Equipment has two subtypes listed on its type line. The first one is a creature type, which in this case is also a subtype of tribal. The second one is Equipment, which is a subtype of artifact."
+      }, 
+      {
+        "date": "2008-04-01", 
+        "text": "Each of these Equipment has a triggered ability that says \"Whenever a [creature type] creature enters the battlefield, you may attach [this Equipment] to it.\" This triggers whenever any creature of the specified creature type enters the battlefield, no matter who controls it. You may attach your Equipment to another player's creature this way, even though you can't do so with the equip ability."
+      }, 
+      {
+        "date": "2008-04-01", 
+        "text": "If you attach an Equipment you control to another player's creature, you retain control of the Equipment, but you don't control the creature. Only you can activate the Equipment's equip ability, and if the Equipment's ability triggers again, you choose whether to move the Equipment. Only the creature's controller can activate any activated abilities the Equipment grants to the creature, and \"you\" in any abilities granted to the creature refers to that player."
+      }
+    ], 
+    "subtypes": [
+      "Rogue", 
+      "Equipment"
+    ], 
+    "text": "Equipped creature gets +2/+0 and has shroud. (It can't be the target of spells or abilities.)\nWhenever a Rogue creature enters the battlefield, you may attach Cloak and Dagger to it.\nEquip {3}", 
+    "type": "Tribal Artifact \u2014 Rogue Equipment", 
+    "types": [
+      "Tribal", 
+      "Artifact"
+    ]
+  }, 
+  {
+    "cmc": 3, 
+    "colorIdentity": [
+      "G"
+    ], 
+    "colors": [
+      "Green"
+    ], 
+    "imageName": "gilt-leaf ambush", 
+    "layout": "normal", 
+    "legalities": [
+      {
+        "format": "Commander", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Legacy", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Lorwyn-Shadowmoor Block", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Modern", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Vintage", 
+        "legality": "Legal"
+      }
+    ], 
+    "manaCost": "{2}{G}", 
+    "name": "Gilt-Leaf Ambush", 
+    "printings": [
+      "LRW"
+    ], 
+    "subtypes": [
+      "Elf"
+    ], 
+    "text": "Create two 1/1 green Elf Warrior creature tokens. Clash with an opponent. If you win, those creatures gain deathtouch until end of turn. (Each clashing player reveals the top card of his or her library, then puts that card on the top or bottom. A player wins if his or her card had a higher converted mana cost. Any amount of damage a creature with deathtouch deals to a creature is enough to destroy it.)", 
+    "type": "Tribal Instant \u2014 Elf", 
+    "types": [
+      "Tribal", 
+      "Instant"
+    ]
+  }, 
+  {
+    "cmc": 5, 
+    "colorIdentity": [
+      "R"
+    ], 
+    "colors": [
+      "Red"
+    ], 
+    "imageName": "consuming bonfire", 
+    "layout": "normal", 
+    "legalities": [
+      {
+        "format": "Commander", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Legacy", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Lorwyn-Shadowmoor Block", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Modern", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Vintage", 
+        "legality": "Legal"
+      }
+    ], 
+    "manaCost": "{3}{R}{R}", 
+    "name": "Consuming Bonfire", 
+    "printings": [
+      "LRW"
+    ], 
+    "subtypes": [
+      "Elemental"
+    ], 
+    "text": "Choose one \u2014\n\u2022 Consuming Bonfire deals 4 damage to target non-Elemental creature.\n\u2022 Consuming Bonfire deals 7 damage to target Treefolk creature.", 
+    "type": "Tribal Sorcery \u2014 Elemental", 
+    "types": [
+      "Tribal", 
+      "Sorcery"
+    ]
+  }, 
+  {
+    "cmc": 6, 
+    "colorIdentity": [
+      "W"
+    ], 
+    "colors": [
+      "White"
+    ], 
+    "imageName": "feudkiller's verdict", 
+    "layout": "normal", 
+    "legalities": [
+      {
+        "format": "Commander", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Legacy", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Lorwyn-Shadowmoor Block", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Modern", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Vintage", 
+        "legality": "Legal"
+      }
+    ], 
+    "manaCost": "{4}{W}{W}", 
+    "name": "Feudkiller's Verdict", 
+    "printings": [
+      "MOR", 
+      "MMA"
+    ], 
+    "rulings": [
+      {
+        "date": "2013-06-07", 
+        "text": "Feudkiller's Verdict doesn't target an opponent. If you have more life than any opponent when that part of the effect happens, you'll put the token onto the battlefield."
+      }
+    ], 
+    "subtypes": [
+      "Giant"
+    ], 
+    "text": "You gain 10 life. Then if you have more life than an opponent, create a 5/5 white Giant Warrior creature token.", 
+    "type": "Tribal Sorcery \u2014 Giant", 
+    "types": [
+      "Tribal", 
+      "Sorcery"
+    ]
+  }, 
+  {
+    "cmc": 2, 
+    "colorIdentity": [
+      "U"
+    ], 
+    "colors": [
+      "Blue"
+    ], 
+    "imageName": "merrow commerce", 
+    "layout": "normal", 
+    "legalities": [
+      {
+        "format": "Commander", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Legacy", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Lorwyn-Shadowmoor Block", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Modern", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Vintage", 
+        "legality": "Legal"
+      }
+    ], 
+    "manaCost": "{1}{U}", 
+    "name": "Merrow Commerce", 
+    "printings": [
+      "LRW"
+    ], 
+    "subtypes": [
+      "Merfolk"
+    ], 
+    "text": "At the beginning of your end step, untap all Merfolk you control.", 
+    "type": "Tribal Enchantment \u2014 Merfolk", 
+    "types": [
+      "Tribal", 
+      "Enchantment"
+    ]
+  }, 
+  {
+    "cmc": 4, 
+    "colorIdentity": [
+      "G"
+    ], 
+    "colors": [
+      "Green"
+    ], 
+    "imageName": "elvish promenade", 
+    "layout": "normal", 
+    "legalities": [
+      {
+        "format": "Commander", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Legacy", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Lorwyn-Shadowmoor Block", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Modern", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Vintage", 
+        "legality": "Legal"
+      }
+    ], 
+    "manaCost": "{3}{G}", 
+    "name": "Elvish Promenade", 
+    "printings": [
+      "LRW", 
+      "EVG", 
+      "DPA", 
+      "DD3_EVG"
+    ], 
+    "subtypes": [
+      "Elf"
+    ], 
+    "text": "Create a 1/1 green Elf Warrior creature token for each Elf you control.", 
+    "type": "Tribal Sorcery \u2014 Elf", 
+    "types": [
+      "Tribal", 
+      "Sorcery"
+    ]
+  }, 
+  {
+    "cmc": 7, 
+    "imageName": "not of this world", 
+    "layout": "normal", 
+    "legalities": [
+      {
+        "format": "Commander", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Legacy", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Modern", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Vintage", 
+        "legality": "Legal"
+      }, 
+      {
+        "format": "Zendikar Block", 
+        "legality": "Legal"
+      }
+    ], 
+    "manaCost": "{7}", 
+    "name": "Not of This World", 
+    "printings": [
+      "ROE"
+    ], 
+    "rulings": [
+      {
+        "date": "2010-06-15", 
+        "text": "The spell or ability you target with Not of This World may have any number of targets, as long as one of them is a permanent you control."
+      }, 
+      {
+        "date": "2010-06-15", 
+        "text": "Not of This World's first ability checks the current state of the targets of the spell or ability it's targeting to determine whether one of them is a permanent you control. For example, say a player casts Forked Bolt targeting you and a creature you control. If, in response, another spell or ability causes that creature to no longer be under your control, then you can't cast Not of This World targeting Forked Bolt. Alternately, if you cast Not of This World targeting Forked Bolt and, in response, another spell or ability causes that creature to no longer be under your control, Not of This World will be countered when it tries to resolve for having an illegal target."
+      }, 
+      {
+        "date": "2010-06-15", 
+        "text": "Not of This World's second ability checks the current state of the targets of the spell or ability it's targeting to determine whether one of them is a creature you control with power 7 or greater. This check is made as you cast Not of This World, before you activate mana abilities. It doesn't matter what the power of the creature was at the time the targeted spell or ability was cast."
+      }, 
+      {
+        "date": "2010-06-15", 
+        "text": "Not of This World doesn't check whether the targets of the spell or ability it's targeting are currently legal for that spell or ability, only who controls them and what their power is. For example, say a player casts Forked Bolt targeting you and a creature you control. If, in response, another spell or ability causes that creature to gain shroud, then you can still cast Not of This World targeting Forked Bolt."
+      }, 
+      {
+        "date": "2010-06-15", 
+        "text": "If a spell or ability targets you, but not a permanent you control, you can't cast Not of This World targeting it. Keep in mind that if a player casts a spell or activates an ability with the intent of dealing damage to a planeswalker you control, that spell or ability is actually targeting you, not that planeswalker."
+      }
+    ], 
+    "subtypes": [
+      "Eldrazi"
+    ], 
+    "text": "Counter target spell or ability that targets a permanent you control.\nNot of This World costs {7} less to cast if it targets a spell or ability that targets a creature you control with power 7 or greater.", 
+    "type": "Tribal Instant \u2014 Eldrazi", 
+    "types": [
+      "Tribal", 
+      "Instant"
+    ]
+  }
+]

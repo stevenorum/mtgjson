@@ -1,0 +1,27 @@
+untap step
+upkeep step
+draw step
+first main
+attack
+second main
+end step
+
+Beginning Phase 
+  Untap Step 
+  Upkeep Step 
+  Draw Step 
+Main Phase 
+Combat Phase 
+Beginning of Combat Step 
+Declare Attackers Step 
+Declare Blockers Step 
+Combat Damage Step 
+End of Combat Step 
+Ending Phase 
+End Step 
+Cleanup Step
+
+
+
+http://www.essentialmagic.com/rules/turnstructure.asp
+http://mtgsalvation.gamepedia.com/Turn_structure
